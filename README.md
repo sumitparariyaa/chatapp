@@ -55,7 +55,7 @@ Before running the app, make sure you have the following installed:
 ## Usage
 
 - Sign up: Create a new account or sign in with an existing one.
-- Start a conversation: Choose a user from the list or enter their username to start a chat.
+- Start a conversation: Choose a user from the list their username to start a chat.
 - Send messages: Type your message and press the send button.
 
 ## Folder Structure
