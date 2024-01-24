@@ -61,7 +61,7 @@ Before running the app, make sure you have the following installed:
 ## Folder Structure
 
 ```plaintext
-flutter-firebase-chat-app/
+chatapp/
 |-- lib/
 |   |-- main.dart
 |   |-- mychatapp.dart
